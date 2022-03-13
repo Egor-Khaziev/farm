@@ -1,0 +1,4 @@
+integrations:
+  server:
+    url: http://localhost:8189/server-core
+
